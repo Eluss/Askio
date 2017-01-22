@@ -1,0 +1,6 @@
+framework module Pods_AskioCore {
+  umbrella header "Pods-AskioCore-umbrella.h"
+
+  export *
+  module * { export * }
+}
