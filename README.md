@@ -26,6 +26,6 @@ The idea for that was to test all the code that does not require UIKit to run as
 I've share this idea in one of my blog posts: https://eliaszsawicki.com/are-your-views-dumb-enough/
 
 ##How do I run it?
-You need XCode with verison >= 8.0
-Open Askio.xcworkspace
-Hit run with Askio as selected target
+You need XCode with verison >= 8.0  
+Open Askio.xcworkspace  
+Hit run with Askio as selected target  
